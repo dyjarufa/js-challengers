@@ -36,4 +36,4 @@ var citricos2 = frutas.slice(1)
 console.log(citricos)
 console.log(citricos2)
 
-//**OBS: SE O INICIO FOR OMITIDO, O ÍNDICE COMEÇA A PARTIUR DO ZERO */
+//**OBS: SE O INICIO FOR OMITIDO, O ÍNDICE COMEÇA A PARTIR DO ZERO */
