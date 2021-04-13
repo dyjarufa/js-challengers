@@ -1,5 +1,5 @@
 // function myFunction( ...arrays ) {
-//   let newArr = arrays.flat();
+//   let newArr = arrays.flat(); //flat() junta os arrays
 //   return newArr.filter((item, index) => newArr.indexOf(item) === index).sort((a, b) => a-b);
 // }
 
