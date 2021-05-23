@@ -16,7 +16,7 @@
 
 // Author Solution
 function myFunction(arr, n) {
-    return arr.slice(-n); // estrai do array de trás para frente
+    return arr.slice(-n); // extrai do array de trás para frente
 }
 
 
